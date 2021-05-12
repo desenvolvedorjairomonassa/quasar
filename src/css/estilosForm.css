@@ -1,0 +1,33 @@
+.cancelar {
+    float:right;
+    color: white;
+    background: brown;
+    width: 150px;
+    height: 30px;
+  }
+
+  .salvar {
+    float:right;
+    color: white;
+    background: darkcyan;
+    width: 150px;
+    height: 30px;
+  }
+  .limpar {
+    color: white;
+    background: thistle;
+    width: 150px; 
+
+  }
+
+  body {
+    font-family: Helvetica,"Times New Roman",serif;
+    
+}
+
+.tabela1
+{
+  padding: 20px;
+  border: 10px darkcyan
+
+}
